@@ -1,0 +1,10 @@
+/Users/a00957604//.Trash/img 4.10.56 PM.txt
+/Users/a00957604//.Trash/img.txt
+/Users/a00957604//Desktop/MyGit/D3SysExam/commands/bottom.txt
+/Users/a00957604//Desktop/MyGit/D3SysExam/commands/desktopls.txt
+/Users/a00957604//Desktop/MyGit/D3SysExam/commands/find.txt
+/Users/a00957604//Desktop/MyGit/D3SysExam/commands/op.txt
+/Users/a00957604//Desktop/MyGit/D3SysExam/img/img.txt
+/Users/a00957604//htdocs/commands/desktopls.txt
+/Users/a00957604//htdocs/img/img.txt
+/Users/a00957604//Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000000-csi.txt
